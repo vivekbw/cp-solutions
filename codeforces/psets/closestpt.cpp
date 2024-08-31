@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/2004/problem/A
+
 #include <iostream>
 #include <cmath>
 #include <vector>
@@ -17,7 +19,7 @@ int main() {
     for(int i = 0; i < n; i++) {
       cin >> ints[i];
     }
-    LOG_VEC(ints);
+    cout << (((n == 2) && (abs(ints[0] - ints[1]) >= 2)) ? "YES" : "NO") << endl;
   }
 
   return 0;
