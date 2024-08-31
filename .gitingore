@@ -1,0 +1,161 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+test_*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# macOS
+.DS_Store
+
+# C++ specific
+# Build artifacts
+*.o
+*.obj
+*.gch
+*.pch
+
+# Linker files
+*.a
+*.lib
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+
+# QtCreator
+*.pro.user
+*.qbs.user
+*.pro.user.*
+*.qbs.user.*
+*.pro.user.*
+
+# Visual Studio
+*.vcxproj.user
+*.vcxproj.*
+*.vcproj.*
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+*.ncb
+*.pdb
+*.pch
+*.obj
+*.tlog
+*.log
+*.vspscc
+*.vsp
+*.vspx
+*.vspscc
+.vs/
+.vscode/
+*.opendb
+*.ipch
+*.aps
+*.dcu
+
+# CodeBlocks
+*.depend
+*.layout
+*.cbp.*
+*.layout
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Generated documentation
+doc/
+*.pdf
+
+# General temporary files
+*.swp
+*~
+
+# General backups
+*.bak
+*.tmp
+
+# Thumbnails
+*.thumb
+
+
